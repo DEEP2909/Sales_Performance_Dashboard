@@ -16,7 +16,7 @@ This is a comprehensive **Sales Performance Dashboard** project that analyzes re
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 sales_dashboard_project/
